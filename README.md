@@ -9,8 +9,8 @@ I like Ruby, the first language that I learn, _not counting Pascal_, RGSS3, for 
 Also I like some gaming, Civilization, Assassin's Creed, Neverwinter Nigths, Mass Effect, Minecrat
 
 My profiles
-  * [GitHub](https://github.com/k4t0mono)
-  * [Twitter](http://twitter.com/k4t0mono)
-  * [Tumblr](http://tumblr.com/k4t0mono)
-  
+ * [GitHub](https://github.com/k4t0mono)
+ * [Twitter](http://twitter.com/k4t0mono)
+ * [Tumblr](http://k4t0mono.tumblr.com)
+ 
 It's all, thank you all. ~^^
